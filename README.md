@@ -1,3 +1,9 @@
+# Netflix UI Clone
+
+![rubi-bill-29HGvKqyIQc-unsplash](https://user-images.githubusercontent.com/61475220/92300862-1b3a2500-ef7c-11ea-9e42-0e659eb4ee05.jpg)
+
+I recently created this Netflix UI clone application project. It fetches the movie data from a third-party API. It also has trailer pop-ups functionality implemented into it. The clone has been built using React JS, Redux, React-hooks, Styled-component, Material-UI, TMDB API, and Firebase (hosting & Deploying). I also plan to add further functionality such as user authorization, a dedicated backend to maintain the user database, and replicate it as close as possible to the original website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
