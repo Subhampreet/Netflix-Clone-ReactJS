@@ -16,9 +16,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Adding Netflix Movie Trailer POP-UPS!
 - Deploying Your App to Firebase & Host it online
 
-### Referances : 
-
-[Netflix-Clone-Clever Qazi](https://www.youtube.com/watch?v=XtMThy8QKqU&t=2214s)
-
 ### Check out the Netflix Clone : [Netflix-Clone](https://netflix-clone-a0b70.web.app)
 
