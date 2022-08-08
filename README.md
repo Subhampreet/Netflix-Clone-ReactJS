@@ -18,3 +18,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Check out the Netflix Clone : [Netflix-Clone](https://netflix-clone-a0b70.web.app)
 
+### To Contribute: 
+
